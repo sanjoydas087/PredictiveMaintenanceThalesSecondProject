@@ -1,11 +1,8 @@
 streamlit
 pandas
 numpy
-plotly
+matplotlib
+seaborn
 scikit-learn
-matplotlib.pyplot 
-matplotlib.dates
-matplotlib.ticker
-seaborn 
-datetime
-warnings
+statsmodels
+plotly
