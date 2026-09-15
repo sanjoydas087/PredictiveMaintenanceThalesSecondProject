@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+matplotlib.pyplot 
+matplotlib.dates
+matplotlib.ticker
+seaborn 
+datetime
+warnings
